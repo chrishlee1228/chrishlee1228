@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chrishlee1228
+- 👀 I’m interested in Data Science and Machine Learning with Python
+- 📫 How to reach me: LinkedIn: [linkedin.com/chris](https://www.linkedin.com/in/chrishansamlee/)
